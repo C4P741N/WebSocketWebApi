@@ -1,0 +1,3 @@
+[submodule "WebSocketWebApi/Ui/my-app"]
+	path = WebSocketWebApi/Ui/my-app
+	url = https://github.com/C4P741N/WebSocketWebApi.git
